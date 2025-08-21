@@ -1,7 +1,7 @@
 
 
-#This project conatin 
-#a.Background Change using useState and useEffect
-#b.Password Genrator
-#c.Currency Convertor
-#d.some props expamles as well
+# This project Contain 
+-A.Background Change using useState and useEffect
+-B.Password Genrator
+-C.Currency Convertor
+-C.some props expamles as well
