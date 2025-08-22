@@ -27,19 +27,19 @@ Each project demonstrates the use of **React hooks**, **state management**, and 
 
 
 ### Stting Up Testing in Our App
--Install React Testing Library
--Installed Jest
--Installed Babel Dependencies 
--configure Babel
--Configure Parcel Config File to disable default babel tranaspilation
--jest -npx jest --init
--Install JSDOM Library 
--Install @babel/preset-react -to make JSX work in test cases 
--Include @babel/preset-react inside my bable config
--npm i -D @testing-library/jest-dom
--Create __tests__ as folder
--Insert file with name FileName.test.js (sum.test.js)
--and write test case inside that 
+- Install React Testing Library
+- Installed Jest
+- Installed Babel Dependencies 
+- configure Babel
+- Configure Parcel Config File to disable default babel tranaspilation
+- jest -npx jest --init
+- Install JSDOM Library 
+- Install @babel/preset-react -to make JSX work in test cases 
+- Include @babel/preset-react inside my bable config
+- npm i -D @testing-library/jest-dom
+- Create __tests__ as folder
+- Insert file with name FileName.test.js (sum.test.js)
+- and write test case inside that 
 - __dundder__ two type underScore called as dundder
 
 ---
